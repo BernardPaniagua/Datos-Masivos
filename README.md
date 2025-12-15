@@ -76,16 +76,4 @@ Nota: la función está con `AuthorizationLevel.Function`; si tu host requiere u
 
 ---
 
-## ✅ Estado actual
 
-- Función: HTTP GET que devuelve agregados por `VendorID` de la tabla `YellowTrips2019`.
-- Telemetría: Application Insights habilitado por configuración en `Program.cs` y `host.json`.
-
----
-
-Si quieres, puedo:
-- Añadir ejemplos de respuesta JSON.
-- Añadir instrucciones de despliegue a Azure.
-- Crear una colección Postman con la llamada de ejemplo.
-
-¡Dime qué prefieres y lo hago! 😊
